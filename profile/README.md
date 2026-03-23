@@ -1,41 +1,82 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ad6f0844-d739-4641-90f7-41407a4fa22d" alt="LogowText">
+  <img src="https://github.com/user-attachments/assets/ad6f0844-d739-4641-90f7-41407a4fa22d" alt="SoundMeet Logo" width="300">
 </p>
 
-<p align"center">Discover. Connect. Jam.</p>
+<h2 align="center">Discover. Connect. Jam.</h2>
 
-Location-based social platform for musicians that makes it easy to discover each other, organize spontaneous jam sessions, and collaborate in real life and online.
+<p align="center">
+  <i>Location-based social platform for musicians</i><br/>
+  Find each other, organize spontaneous jam sessions, and collaborate in real life and online.
+</p>
 
-    an init build project
+<p align="center">
+  <sub>An Init Build Project</sub>
+</p>
 
-SoundMeet is a music-tech platform designed to connect musicians in real time through location-based discovery, intelligent matching, and community-driven collaboration.
+---
 
-We’re building the infrastructure for spontaneous creativity — helping artists find jams, form bands, and create music together anywhere in the world.
+## About SoundMeet
 
-🚀 What We’re Building
-🗺️ Interactive Jam Discovery Map – Explore live sessions through dynamic, data-driven visualizations
-🎸 Smart Matching System – Connect with musicians based on style, skill, and vibe
-📍 Location-Based Networking – Turn your city into a living music ecosystem
-🎤 Artist Profiles – Showcase your sound, influences, and availability
-⚡ Real-Time Collaboration – Enable instant, organic musical experiences
-🧠 Our Vision
+SoundMeet is a music-tech platform designed to connect musicians in real time through:
+
+- Location-based discovery  
+- Intelligent matching  
+- Community-driven collaboration  
+
+We are building the infrastructure for spontaneous creativity, helping artists find jams, form bands, and create music anywhere in the world.
+
+---
+
+## What We’re Building
+
+- **Interactive Jam Discovery Map**  
+  Explore live sessions through dynamic, data-driven visualizations  
+
+- **Smart Matching System**  
+  Connect with musicians based on style, skill, and compatibility  
+
+- **Location-Based Networking**  
+  Transform your city into a living music ecosystem  
+
+- **Artist Profiles**  
+  Showcase sound, influences, and availability  
+
+- **Real-Time Collaboration**  
+  Enable instant and organic musical experiences  
+
+---
+
+## Vision
 
 We believe the future of music is collaborative, decentralized, and spontaneous.
 
 SoundMeet aims to become the default layer for real-world musical interaction, bridging the gap between digital discovery and physical creation.
 
-🛠️ Tech Stack
-⚛️ Frontend: React + Tailwind CSS
-🧠 Backend / BaaS: Supabase (PostgreSQL, Auth, Realtime, Storage)
-📊 Maps & Visualization: Plotly (interactive geospatial + jam density heatmaps)
-⚡ Realtime: Supabase Realtime / WebSockets
-🎨 Design: Figma
-🌍 Join the Movement
+---
 
-Whether you're a guitarist, producer, singer, or just someone who loves music — SoundMeet is your gateway to real connections.
+## Tech Stack
+
+- **Frontend**  
+  React + Tailwind CSS  
+
+- **Backend / BaaS**  
+  Supabase (PostgreSQL, Authentication, Realtime, Storage)  
+
+- **Maps & Visualization**  
+  Plotly (interactive geospatial visualization and jam density heatmaps)  
+
+- **Realtime**  
+  Supabase Realtime / WebSockets  
+
+- **Design**  
+  Figma  
+
+---
+
+## Join the Movement
+
+Whether you are a guitarist, producer, singer, or simply someone who loves music, SoundMeet is your gateway to real connections.
 
 No algorithms. No barriers. Just music.
 
-⚡ Short Version (for repo header)
-
-SoundMeet — Find musicians. Join jams. Build your scene.
+---
