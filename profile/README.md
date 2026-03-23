@@ -54,25 +54,6 @@ SoundMeet aims to become the default layer for real-world musical interaction, b
 
 ---
 
-## Tech Stack
-
-- **Frontend**  
-  React + Tailwind CSS  
-
-- **Backend / BaaS**  
-  Supabase (PostgreSQL, Authentication, Realtime, Storage)  
-
-- **Maps & Visualization**  
-  Plotly (interactive geospatial visualization and jam density heatmaps)  
-
-- **Realtime**  
-  Supabase Realtime / WebSockets  
-
-- **Design**  
-  Figma  
-
----
-
 ## Join the Movement
 
 Whether you are a guitarist, producer, singer, or simply someone who loves music, SoundMeet is your gateway to real connections.
